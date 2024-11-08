@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 052b27bf6923daf4d8603204e552d651
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Tree: {fileID: 3889971896735531300, guid: 3a09340c02e615f4c828717f14ed5743, type: 3}
+  - heliscript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a1412f75f97a0a641a00eaa073b8a41f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coin: {fileID: 698631778566839662, guid: 072ec7b4b7cb9094a9444a56e6c75cf9, type: 3}
+  - heliscript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
